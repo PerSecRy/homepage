@@ -21,7 +21,7 @@
 title: PerSec Ry
 email: info@persec.camp
 description: >- # this means to ignore newlines until "baseurl:"
-  PerSec Ry promotes information security expertice in Finlandand make it possible publicication of research results in a generally beneficial way.
+  PerSec Ry promotes information security expertice in Finland and make it possible publicication of research results in a generally beneficial way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
